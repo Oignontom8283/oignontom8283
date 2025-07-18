@@ -1,4 +1,65 @@
-## Hi there 👋
+
+<p align="center">
+    <h1 align="center">Hello world 👋</h1>
+    <h3 align="center">I'm Oignontom8283</h3>
+</p>
+
+* I'm a **scientist** at heart!
+
+* I absolutely love **cats**!
+
+* I'm really into tech, especially:
+
+  * **CODING**!
+  * Hardware
+  * Gaming
+  * Open source
+  * System & network administration
+  * Basically, anything related to computers!
+
+* I'm a Developer/Programmer (*though I guess the fact you're reading this on GitHub kind of says it all, right?*)
+
+  * My main focus is backend development and Discord bots
+  * TypeScript (JavaScript)
+  * Python
+  * HTML, CSS, React
+  * A bit of C++
+  * Some .dll work in C#
+  * Minecraft datapacks (mcfunction)
+
+* I enjoy peace and cozy vibes.
+
+* I'm not the most social person (and yeah, I'm *pretty* shy). But if you reach out and you're respectful, I'll be happy to chat! 😊
+
+* I dislike conflict—I prefer peace and quiet. That said, it doesn’t mean I won’t speak up when needed.
+
+
+<!-- - Je suis un  __scientiste__ !
+- j'adore les **chats** !
+- J'aime particulièrement l'informatique.
+    - Le **CODE** !
+    - Le hardware
+    - Le gaming
+    - L'open source
+    - L'administration système/réseau
+    - Et globalement tout ce qui touche à l'informatique !
+- Je suis Développeur/Programateur, *mais je suppose que le fait que vous lisiez ceci sur GitHub parle pour moi ?*
+    - Ma spécialité ces le backend et les bot discord   
+    - TypeScript (Javascript)
+    - Python
+    - html, css, React
+    - Un peu de C++
+    - Quels que .dll en C#
+    - Datapack minecraft (mcfunction)
+
+- J'aime le calme et l'ambiance cocooning.
+- Je ne suis pas particulièrement sociable (et aussi un peu *beaucoup* timide). Mais si vous venez vers moi et que vous êtes respectueux, je parlerai avec plaisir ! 😊
+- Je n'aime pas les conflits, je préfère la paix et la tranquillité. Mais ce n'est pas une raison pour ne pas dire les choses. -->
+
+---
+
+The end of the WORLD ! : **19/01/2038 03:14:08 UTC+0** 😨😰🥵🫥
+
 
 <!--
 **Oignontom8283/oignontom8283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
