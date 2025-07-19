@@ -4,9 +4,9 @@
     <h3 align="center">I'm Oignontom8283</h3>
 </p>
 
-* I'm a **scientist** at heart!
+* I believe in **science** !
 
-* I absolutely love **cats**!
+* I adore **cats** !
 
 * I'm really into tech, especially:
 
