@@ -19,8 +19,8 @@
 
 * I'm a Developer/Programmer (*though I guess the fact you're reading this on GitHub kind of says it all, right?*)
 
-  * My main focus is backend development and Discord bots
-  * TypeScript (JavaScript)
+  * I specialize in backend development and Discord bots.
+  * TypeScript ❤️ (JavaScript)
   * Python
   * HTML, CSS, React
   * A bit of C++
@@ -29,9 +29,9 @@
 
 * I enjoy peace and cozy vibes.
 
-* I'm not the most social person (and yeah, I'm *pretty* shy). But if you reach out and you're respectful, I'll be happy to chat! 😊
+* I'm not the most social person (…and also a little *very* shy.). But if you reach out and you're respectful, I'll be happy to chat! 😊
 
-* I dislike conflict—I prefer peace and quiet. That said, it doesn’t mean I won’t speak up when needed.
+* I dislike conflict—I prefer peace and quiet. But that’s no excuse for not speaking up.
 
 
 <!-- - Je suis un  __scientiste__ !
