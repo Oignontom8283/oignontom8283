@@ -8,6 +8,8 @@
 
 * I adore **cats** !
 
+* I'm French 🇫🇷
+
 * I'm really into tech, especially:
 
   * **CODING**!
@@ -32,6 +34,18 @@
 * I'm not the most social person (…and also a little *very* shy.). But if you reach out and you're respectful, I'll be happy to chat! 😊
 
 * I dislike conflict—I prefer peace and quiet. But that’s no excuse for not speaking up.
+
+* My favorites technologies include:
+  * **[TypeScript ❤️](https://www.typescriptlang.org/)**
+  * [Zod](https://github.com/colinhacks/zod)
+  * [Node.js](https://nodejs.org/)
+  * [Prisma](https://www.prisma.io/)
+  * [Bruno](https://www.usebruno.com/)
+  * [Discord.js](https://discord.js.org/)
+  * [DnSpyEx](https://github.com/dnSpyEx/dnSpy)
+  * [PaperMC](https://papermc.io/)
+  <!-- * [tRPC](https://trpc.io/) -->
+
 
 
 <!-- - Je suis un  __scientiste__ !
