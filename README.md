@@ -46,33 +46,11 @@
   * [PaperMC](https://papermc.io/)
   <!-- * [tRPC](https://trpc.io/) -->
 
-* I am a man
-
 * I am **not** a bot 🤖
 
-* I am a unknown gender 🤷‍♂️ (I’m romantically unavailable… to everyone. 😅)
+* I'm a man 🧐
 
-<!-- - Je suis un  __scientiste__ !
-- j'adore les **chats** !
-- J'aime particulièrement l'informatique.
-    - Le **CODE** !
-    - Le hardware
-    - Le gaming
-    - L'open source
-    - L'administration système/réseau
-    - Et globalement tout ce qui touche à l'informatique !
-- Je suis Développeur/Programateur, *mais je suppose que le fait que vous lisiez ceci sur GitHub parle pour moi ?*
-    - Ma spécialité ces le backend et les bot discord   
-    - TypeScript (Javascript)
-    - Python
-    - html, css, React
-    - Un peu de C++
-    - Quels que .dll en C#
-    - Datapack minecraft (mcfunction)
-
-- J'aime le calme et l'ambiance cocooning.
-- Je ne suis pas particulièrement sociable (et aussi un peu *beaucoup* timide). Mais si vous venez vers moi et que vous êtes respectueux, je parlerai avec plaisir ! 😊
-- Je n'aime pas les conflits, je préfère la paix et la tranquillité. Mais ce n'est pas une raison pour ne pas dire les choses. -->
+* Romance? Nah. I’m all about good friends!
 
 ---
 
