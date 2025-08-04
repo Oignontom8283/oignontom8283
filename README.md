@@ -46,7 +46,11 @@
   * [PaperMC](https://papermc.io/)
   <!-- * [tRPC](https://trpc.io/) -->
 
+* I am a man
 
+* I am **not** a bot 🤖
+
+* I am a unknown gender 🤷‍♂️ (I’m romantically unavailable… to everyone. 😅)
 
 <!-- - Je suis un  __scientiste__ !
 - j'adore les **chats** !
